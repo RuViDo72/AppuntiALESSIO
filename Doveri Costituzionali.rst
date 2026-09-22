@@ -1,0 +1,28 @@
+DOVERI COSTITUZIONALI
+=====================
+
+.. figure:: /images/dovericostituzionali.jpeg
+      :align: center
+      :alt: diritto
+      :scale: 60%
+
+
+Ogni cittadino italiano ha dei doveri. 
+
+Il **PRIMO** di questi è quello di **contribuire alle spese dello Stato** 
+attraverso i tributi (imposte, tasse e contributi). 
+
+Quest'obbligo è previsto **nell'articolo 53 della Costituzione** e deve rispettare 2 principi:
+
+1. **CAPACITÀ CONTRIBUTIVA**: la contribuzione deve avvenire in base al reddito e quindi i più ricchi contribuiscono di più;
+2. **PROGRESSIVITÀ** nel senso che le aliquote, la % che si deve versare allo Stato, cresce con l'aumentare del reddito.
+
+Il **SECONDO** DOVERE: **difesa della Patria**. In base al quale ogni cittadino deve difendere 
+la Patria in caso d'attacco da un altro Stato. 
+Fino agli anni 2000 tutti i cittadini maschi dovevano prestare servizio militare per 1 anno dal compimento dei 18 anni. Poi quest'obbligo viene cancellato.
+
+Attualmente l'esercito italiano è composto soltanto da volontari che vengono retribuiti dallo Stato. Però in caso di guerra ogni cittadino maggiorenne può essere chiamato a combattere. In caso di rifiuto c'è il **reato di diserzione**, cioè l'ergastolo. Se si verifica durante il combattimento c'è la pena di morte.
+
+Il **TERZO** DOVERE: **fedeltà alla Repubblica** consiste nell'obbligo di ogni cittadino di non compiere attività che possa danneggiare il proprio Stato. Rientra in quest'obbligo quello di rispettare le leggi perché in questo modo si garantisce il buon funzionamento dello Stato.
+Fammi sapere se hai bisogno di altro!
+

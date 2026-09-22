@@ -1,0 +1,70 @@
+PROCEDIMENTO LEGISLATIVO (LEGGE)
+================================
+
+Per approvare una legge il parlamento segue una procedura chiamata **"iter legis"** che ha diverse fasi:
+
+**1ª FASE = INIZIATIVA**, ci sono 5 soggetti che possono fare una proposta di legge e sono:
+
+- **GOVERNO**, con i disegni di legge;
+- **ogni parlamentare**;
+- **le regioni**, per le materie sui cui hanno competenza;
+- **cittadini elettori**, 50.000;
+- **CNEL**.
+
+**2ª FASE**, le proposte passano ad una delle due camere.
+
+**3ª FASE**, la camera che riceve la proposta decide di esaminarla all'interno della commissione parlamentare della materia che la discute e alla fine decide se farla andare avanti o bloccarla;
+
+**4ª FASE**, se la commissione decide di esaminarla, viene convocato un avviso, cioè stabilisce il giorno del suo esame;
+
+**5ª FASE**, la discussione è proclamata spesso alla conferenza dei capi gruppo;
+
+**6ª FASE**, nel giorno stabilito inizia la discussione. Organi parlamentari possono chiedergli di intervenire oppure può presentare delle richieste di modifica chiamate "emendamenti";
+
+**7ª FASE**, la proposta viene discusso e votata.
+
+Certo, ecco la trascrizione degli appunti che mi hai fornito nell'immagine:
+
+
+
+**8° FASE:**
+* discussione gli eventuali emendamenti;
+* si passa alla votazione che si effettua in questo modo:
+* si votano gli emendamenti;
+* si votano i singoli articoli;
+* si vota tutta la legge nel suo complesso.
+
+**9° FASE:**
+* il parlamento approva la legge vota in altro ramo dove viene ripetuto lo stesso procedimento;
+
+**10° FASE:**
+* se l'altro ramo approva degli emendamenti la legge deve ritornare all'altro ramo fino a quando entrambi non approvano lo stesso testo. Il tutto deve avvenire in un tempo massimo che viene stabilito in ogni caso, passato il quale il provvedimento decade.
+
+**11° FASE:**
+* se la legge è approvata su tutti e due rami passa dal PdR che esamina per accettare se ci sono contrasti con la Costituzione e ci possono essere 2 motivi:
+* non ci sono contrasti e promulga la legge;
+* ci sono contrasti e in questo caso viene mandato al parlamento con un messaggio dove è possibile il contrasto.
+
+**Il Parlamento ha 3 possibilità:**
+* Approva la legge con le modifiche indicate dal PdR che quindi la promulga.
+* Il Parlamento riapprova la legge con lo stesso testo e in questo caso il PdR può fare 2 cose:
+* Promulga la legge;
+* SI RIFIUTA E SI DEVE DIMETTERE.
+
+
+
+**12° FASE** SE LA LEGGE È APPROVATA DA TUTTI E 2 (i rami del Parlamento), VIENE PASSATO 
+(al Presidente della Repubblica) CHE LA ESAMINA PER ACCETTARE CHE NON CI SIANO CONTRASTI CON LA COSTITUZIONE. 
+Ci sono 2 ipotesi:
+- NON CI SONO CONTRASTI E [il PDR la promulga]
+- CI SONO CONTRASTI e in questo caso rinvia al Parlamento con la motivazione del perché [ci sono] contrasti.
+Il Parlamento ha 3 possibilità:
+- RIAPPROVA la legge con le modifiche e la promulga
+- IL PARLAMENTO RIAPPROVA la legge con lo stesso testo. In questo caso il PDR può fare 2 cose:
+1. PROMULGA la legge
+2. SI RIFIUTA E SI DEVE DIMETTERE
+
+A questo punto, se la legge è accettata, viene inviata ad una **GAZZETTA UFFICIALE** che la pubblica e dopo **45 GIORNI** viene pubblicata. Questo periodo si chiama [Vacatio Legis] e serve ai cittadini per **DA CONOSCERE LA LEGGE**. In caso di urgenza, la legge può entrare in vigore anche lo stesso giorno della pubblicazione.
+
+
+
