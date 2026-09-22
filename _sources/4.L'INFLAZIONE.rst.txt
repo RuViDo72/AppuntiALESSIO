@@ -1,0 +1,70 @@
+4. L'INFLAZIONE
+===============
+
+.. figure:: /images/inflazione.jpeg
+      :align: center
+      :alt: diritto
+      :scale: 100%
+
+
+Ogni economia ha una sua inflazione, che è un meccanismo silenzioso e graduale: 
+una moneta perde di valore e diminuisce il suo potere d'acquisto. 
+
+Per questa ragione una moneta ha 2 tipi di valore: 
+
+**quello nominale** (che è quello espresso nella moneta) 
+
+e **quello reale** (il potere d'acquisto che corrisponde al valore reale).
+
+Il potere d'acquisto che corrisponde al vaolre reale è strettamente legato a all'aumento dei prezzi.
+
+Più aumentano i prezzi e meno vale la moneta.
+
+L'inflazione può essere di più tipi :
+
+1. **STRISCAINATE** quando si parla di percentuali basse di inflazione;
+
+2. **GALOPPANTE** quando di parla di decine di punti percentuali;
+
+3. **IPER INFALZIONE** quando l'aumento è superiore al 50% per un mese.
+ 
+ 
+ 
+L'inflazione può essere causata da fattori:
+ 
+**Interni**: Aumento prezzi, salari, moneta in circolazione; sono le cause che possono aumentare 
+l'inflazione e lo Stato deve saper controllare.
+
+**Esterni**: Cause che vengono da altri stati (es. guerre...); rispetto ai quali il singolo 
+stato non può fare assolutamente niente.
+
+4.1 - CAUSE INFLAZIONE
+++++++++++++++++++++++
+ 
+
+In generale l'inflazione aumenta quando salgono i prezzi, e ciò avviene nei seguenti casi:
+
+**Aumento dei salari**
+**Aumento della moneta in circolazione**
+**L'inflazione importata**, cioè da costi sper materie energetiche
+
+
+4.2 - MISURAZIONE INFLAZIONE
+++++++++++++++++++++++++++++
+
+Per stabilire il tasso di inflazione, c'è un organismo chiamato **ISTAT** in Italia che tiene sotto 
+controllo il mercato e le variazioni di prezzo. 
+In pratica ha preso come campione il prezzo di determinati beni che sono quelli che si consumano maggiormente 
+in Italia, chiamati **paniere economico**. 
+
+
+.. figure:: /images/paniere.jpeg
+      :align: center
+      :alt: diritto
+      :scale: 100%
+
+Periodicamente, ogni mese, l'ISTAT rileva la variazione di prezzo dei beni del paniere,
+la variazione in Italia, fa la media e comunica la variazione % dei prezzi. 
+ 
+In questo modo si ha la variazione ISTAT di ogni mese e allo quello annuale rispetto all'anno precedente.
+

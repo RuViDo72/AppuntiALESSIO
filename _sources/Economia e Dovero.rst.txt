@@ -1,0 +1,14 @@
+# ECONOMIA E DOVERI
+
+## CAUSE DELL'INFLAZIONE
+In generale l'inflazione aumenta quando aumentano i prezzi e ciò avviene nei seguenti casi:
+1) AUMENTO DEI SALARI (STIPENDI).
+2) AUMENTO DELLA MONETA IN CIRCOLAZIONE, quando ho più soldi.
+3) INFLAZIONE IMPORTATA, cioè la crescita di materie energetiche.
+
+## MISURAZIONE INFLAZIONE
+Per stabilire il tasso di inflazione, c'è un organismo chiamato **ISTAT** in Italia che tiene sotto controllo il mercato e le variazioni di prezzo. In pratica ha preso come campione il prezzo di determinati beni che sono quelli che si consumano maggiormente in Italia, chiamati **paniere economico**. Periodicamente, ogni mese, l'ISTAT rileva la variazione di prezzo dei beni del paniere, la variazione in Italia, fa la media e comunica la variazione % dei prezzi. In questo modo si ha la variazione ISTAT di ogni mese e allo quello annuale rispetto all'anno precedente.
+
+## CIRCOLAZIONE DELLA MONETA
+Come tutti i beni presenti all'interno dello Stato anche la **moneta** ha un mercato dove ci sono soggetti che l'acquistano e che la donano. In generale si creano transazioni e cicli scambi all'interno di un sistema interno e quindi la moneta trova una velocità elevata in circolare. In generale una velocità più elevata è tipica dei sistemi economici in cui c'è l'economia che va bene e quindi cresce, mentre la velocità restrittiva è tipica con problemi e con crisi di rotta. La moneta in circolazione viene usata solo nel governo mentre la sua circolazione primaria deriva dagli intermediari finanziari, cioè coloro che prestano moneta e la utilizzano. I principali sono le banche, le assicurazioni e i fondi d'investimento.
+[Nota parziale: re prende un indennizzo (stipendio) il cui importo è deciso dalla camera di appartenenza].
